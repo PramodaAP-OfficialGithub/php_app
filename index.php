@@ -11,7 +11,7 @@ echo new class
     $out = [
         'doc'   => 'SPE::01',
         'nav1'  => '',
-        'head'  => 'Simple',
+        'head'  => 'Changed',
         'main'  => '<p>Error: missing page!</p>',
         'foot'  => 'Copyright (C) 2015-2017 Mark Constable (AGPL-3.0)',
     ],
